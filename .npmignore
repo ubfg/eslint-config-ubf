@@ -1,0 +1,8 @@
+#
+# .npmignore
+#
+
+# --------------------------------------
+/.editorconfig
+/.npmignore
+/*.tgz

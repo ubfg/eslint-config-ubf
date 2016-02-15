@@ -1,0 +1,16 @@
+{
+  "name": "eslint-config-ubf",
+  "version": "0.0.0",
+  "description": "ESLint Configuration for UBF Projects",
+  "keywords": [
+    "eslint-config",
+    "ubf"
+  ],
+  "author": "Stefan Rumzucker",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubfg/eslint-config-ubf.git"
+  },
+  "main": "config/default",
+  "license": "MIT"
+}
